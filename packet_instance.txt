@@ -1,0 +1,13 @@
+Packet unserialized content:
+ {
+  "accelerometerAccelerationX" : "-0.110428",
+  "accelerometerAccelerationY" : "-0.600708",
+  "accelerometerAccelerationZ" : "-0.757202",
+  "accelerometerTimestamp_sinceReboot" : "1085920.947026",
+  "gyroRotationX" : "0.177694",
+  "gyroRotationY" : "0.000121",
+  "gyroRotationZ" : "-0.188240",
+  "gyroTimestamp_sinceReboot" : "1085920.471793",
+  "loggingTime" : "2021-05-03 11:33:18.704 +0200",
+  "logSampleNr" : "2"
+}
